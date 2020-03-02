@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+.card {
+  display: inline-block;
+  background-color: rgb(255, 225, 92);
+  border-radius: 5px;
+  max-width: 50%;
+  padding: 1rem 1.5rem 1.5rem;
+  margin: 2rem;
+
+  font-family: 'Roboto Slab';
+}
+
+.card-title {
+  color: #4b4b4b;
+}
+
+.card-description {
+  margin-bottom: 2.5rem;
+  color: #383838;
+}
+
+.card-image {
+  display: block;
+  margin: 1.5rem 0;
+  max-width:100%;
+}
+
+.card-cta {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+
+  background: #2ab1e7;
+  padding: .5rem;
+  border-radius: 5px;
+
+  color: white;
+  text-decoration: none;
+}
