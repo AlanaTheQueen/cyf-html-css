@@ -1,3 +1,3 @@
 # Week 1 HTML/CSS 
 
-May need to copy lesson file into this file
+This lesson will based on the syllabus for [Week 1 html-css](https://syllabus.codeyourfuture.io/html-css/)

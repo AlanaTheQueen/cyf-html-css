@@ -12,18 +12,24 @@ span {
 
 /* descendent selector */
 /* descendent means children, grand-children ... */
-div h1 {
+
+/* Uncomment this code, and what for changes */
+/* div h1 {
   color: pink;
-}
+} */
 
 /* director selector */
 /* descendent means children only */
-div > p {
+
+/* Uncomment this code, and what for changes */
+/* div > p {
   color: blue;
-}
+} */
 
 /* sibligs selector */
 /* sibling styles the next */
-h2 ~ a {
+
+/* Uncomment this code, and what for changes */
+/* h2 ~ a {
   color: green;
-}
+} */
