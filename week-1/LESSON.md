@@ -6,8 +6,6 @@ All goals are related to [Week 1 - Learning Objectives](https://github.com/CodeY
 
 Main format will be Demos and Lectures
 
-- **Being Responsible for your studies**
-  
 - **HTML Syntax Basics** - HTML tags and attributes
 
 - **CSS Syntax Basics** - box model, pseudo classes and advanced selectors
