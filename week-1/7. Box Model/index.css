@@ -1,0 +1,27 @@
+body {
+  box-sizing: border-box;
+
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-weight: 400;
+}
+
+.section {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-1 {
+  background: skyblue;
+  padding: 32px;
+  margin: 32px;
+}
+
+.container-2 {
+  background: burlywood;
+  padding-left: 32px;
+  margin-left: 2rem;
+  border: 5px silver solid;
+}

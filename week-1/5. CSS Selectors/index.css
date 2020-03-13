@@ -1,0 +1,29 @@
+body {
+  box-sizing: border-box;
+
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  color: gray;
+}
+
+span {
+  font-weight: 700;
+}
+
+/* descendent selector */
+/* descendent means children, grand-children ... */
+div h1 {
+  color: pink;
+}
+
+/* director selector */
+/* descendent means children only */
+div > p {
+  color: blue;
+}
+
+/* sibligs selector */
+/* sibling styles the next */
+h2 ~ a {
+  color: green;
+}
